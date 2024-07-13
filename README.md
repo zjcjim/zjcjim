@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zjcjim&theme=react&hide_border=true)](https://git.io/streak-stats)
+<br>
+<br>
+[![zjcjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjcjim&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
