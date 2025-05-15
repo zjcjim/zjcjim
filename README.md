@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 [![zjcjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjcjim&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjcjim)](https://github.com/anuraghazra/github-readme-stats)
